@@ -69,6 +69,6 @@ This project taught me how to deploy, monitor, and manage cloud-native apps usin
 ## 🔗 GitHub Repository
 [Click here to view the full project on GitHub](https://github.com/priyanshi-r76/PriyanshiApp)
 
----
+----
 
 Made with 💙 by Priyanshi Rawat
