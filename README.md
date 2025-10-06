@@ -1,5 +1,3 @@
-# PriyanshiApp
-AWS Elastic Beanstalk deployment project with monitoring and tagging
 # PriyanshiApp — AWS Elastic Beanstalk Deployment
 
 This project showcases the deployment of a custom Node.js application using AWS Elastic Beanstalk. It includes environment configuration, tagging, monitoring via CloudWatch, and a clean deployment pipeline.
